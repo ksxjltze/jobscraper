@@ -33,17 +33,21 @@ for job in jobs:
     jobTitle = job.find_element(By.CLASS_NAME, "jobTitle").find_element(By.TAG_NAME, "span")
     companyInfo = job.find_element(By.CLASS_NAME, "company_location")
     companyName = companyInfo.find_element(By.CSS_SELECTOR, "span[data-testid='company-name']")
-    print(jobTitle.text + " - " + companyName.text)
     
     try:
         element = driver.find_element(By.ID, "salaryInfoAndJobType")
-        jobs_with_salary.append(element)
+        salaryInfo = element.text
+        jobs_with_salary.append((jobTitle.text, companyName.text, salaryInfo))
     except:
         try:
             payElement = driver.find_element(By.XPATH, "//div[@aria-label='Pay']")
-            jobs_with_salary.append(element)
+            payString = payElement.text
+            jobs_with_salary.append((jobTitle.text, companyName.text, payString))
             
         except:
-            print("No pay found")
+            print("No pay found for job: " + jobTitle.text + " (" + companyName.text + ")")
+            
+for job in jobs_with_salary:
+    print(job[0] + "( " + job[1] + ")" + " - " + job[2])
         
 driver.quit()
