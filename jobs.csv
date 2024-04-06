@@ -1,5 +1,88 @@
-Title Name,Company Name,Pay,Description
-Software Developer – Front-End,NodeFlair,"$3,000 - $6,000 a month","Job Summary
+Title,Company,Pay,Description,Type
+Title,Company,Pay,Description,Type
+Title,Company,Pay,Description,Type
+Title,Company,Pay,Description,Type
+Title,Company,Pay,Description,Type
+Software Engineer (Front-end),NodeFlair,NA,"Job Summary
+
+Salary
+S$5,000 - S$6,500 / Monthly
+
+Job Type
+
+Seniority
+Junior
+
+Years of Experience
+At least 2 years
+
+Tech Stacks
+SCSS Git Angular JavaScript CSS
+
+Job Description
+WHO WE ARE
+Digify is a cloud-based document security and data room software that allows customers to control, protect and track important documents after sharing them. Companies use Digify to protect confidential information for fundraising and due diligence, secure intellectual property, and protect sensitive communications.
+Digify is used in 138 countries today. We have more than 500,000 users worldwide.
+
+WHAT YOU'LL BE DOING:
+Design, program, and test software.
+Maintain existing software systems by identifying and fixing software bugs.
+Create technical specifications and test plans.
+Create, maintain, and extend operational documentation.
+Consult with management and colleagues regarding business requirements.
+Design and maintain the application and operational architecture of the product.
+Learn to be a subject matter expert who provides technical suggestions to the technical manager.
+Explore and develop skills in new software technologies.
+Work in a small, experienced and dynamic team on a fast-paced, agile development schedule.
+REQUIREMENTS
+A degree in Computer Science or Computer Engineering.
+2-5 years of experience as a frontend developer in a software company.
+Proficient understanding of web markup, including HTML5 and CSS3.
+Strong expertise in client-side scripting and JavaScript frameworks, especially Angular.
+Good understanding of server-side CSS pre-processing platforms, such as SCSS.
+Familiarity with front-end build tools
+Proficient understanding of code versioning tools, such as Git.
+Experience with responsive and adaptive design.
+Strong troubleshooting and problem solving skills.
+Ability to develop solutions independently.
+Ability to quickly adapt to new designs and requirements.
+Passionate about sofware development. Desire to learn and develop your professional skills.
+This job is based in Singapore.
+BENEFITS
+Group health insurance.
+Paid annual leave (15 days)
+Birthday leave (1 day).
+Self-development benefits
+Performance bonus","$5,000 - $6,500 a month"
+Software Engineer - SAST Scanning,ByteDance,NA,"About the Company
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+
+About the Team
+About the Security Assurance Team at ByteDance
+The team is missioned to build infrastructures, platforms and technologies, as well as to support cross-functional teams to protect our users, products and infrastructures. In this team, you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and secure-by-design systems and solutions. Our challenges are not your regular day-to-day technical problems; you'll be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech. It's working fast, at scale, and we're making a difference.
+
+Job Responsibility
+1. Develop and improve the SAST analysis engine to discover security bugs in the code.
+2. Integrate SAST capabilities into company processes to establish automated discovery and disposal processes.
+3. Evaluate and verify the results of SAST, provide detailed reports and recommendations, and promote problem solving and system improvement
+4. Provide support services for development and promote problem solving and code improvement.
+Minimum Qualifications
+1. Familiar with multiple languages such as Go or Python, with sufficient understanding of the OWASP Top 10 vulnerability principles and vulnerability code scenarios.
+2. Have good SAST tool development and debugging ability.
+3. Master common code audit ideas in the industry (such as taint tracking), and be familiar with the principles of well-known SAST tools.
+Preferred Qualifications
+1. Have solid offensive and defensive technical capabilities such as web security, code audit, and penetration test.
+2. Have good team communication and collaboration skills, and good professional ethics.
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",NA
+Software Developer â€“ Front-End,NodeFlair,NA,"Job Summary
 
 Salary
 S$3,000 - S$6,000 / Monthly
@@ -28,6 +111,309 @@ Understanding of markups used for layout also has the ability to hand-code marku
 Experience in organizing CSS Files and specifying various CSS for different media and devices
 Understanding of CSS basics and essentials, also familiar with the development and debugging tools for cross-browser and multiple-devices issues
 Good written also verbal communication skills & fresh graduates are welcome to apply","$3,000 - $6,000 a month - Fresh graduate"
+Software Engineering Internship (min 5 months),NCS,NA,"Software Engineering Internship (min 5 months)
+
+Date: 23 Mar 2024
+Location: Singapore, Singapore
+Company: Singtel Group
+NCS is the leading technology services firm that operates across the Asia Pacific region in over 20 countries, providing consulting, digital services, technology solutions, and more.
+
+We believe in harnessing the power of technology to achieve extraordinary things, creating lasting value and impact for our communities, partners, and people. Our diverse workforce of 12,000 has delivered large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.
+
+You will have the opportunity to learn
+How to perform technical tasks so as to develop/enhance software applications according to Functional and Technical specifications.
+How to analyse process/program specifications & translate specifications to program codes, conforming to program guidelines and programming best practices.
+How to make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls & audits.
+How to develop unit test package, execute tests & document test results to ensure the quality of the program.
+How to assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment.
+How to Investigate all reported problems/errors & initiate amendments & testing so that the system can operate correctly & efficiently.
+How to prepare & maintain up-to-date system documentation.
+The ideal profile should be/have:
+Pursuing a Diploma/Bachelorâ€™s degree in Computer Science or related engineering fields.
+Knowledge in one or more frontend framework (HTML5/Angular/React JS).
+Knowledge in one or more backend languages (Java/.NET/Python/PHP/C++).
+
+As Asiaâ€™s leading technology services firm, NCS as part of the Singtel Group, aims to create sustainable value for all our stakeholders. We aspire to create the extraordinary, to impact millions of people every day, and to create a positive impact on our environment. Our sustainability strategy sets out the key Environmental, Social and Governance (ESG) areas that aim to create the NCS impact for our clients, our people and our future.
+
+We Grow our People, Value our Clients, and Create our Future.
+
+We want to change the way we live and work for the better, to create new and sustainable business growth, and to foster an inclusive future for all.
+
+You can find out more about our Groupâ€™s sustainability focus to guide how you can contribute to our objectives at Sustainability Reports.
+
+About NCS Group
+We believe in building a talent-led delivery model to enable our best people to lead, and to support them with the right structure, processes, and tools to ensure that our clients are delivered top quality services. Great work is never done alone, which is why we also believe in fostering a collaborative work environment where people with different expertise and talent can come together.
+
+Weâ€™re here to make the extraordinary happen.
+
+Find out more at ncs.co and our LinkedIn career site.
+
+We handle all profiles with the highest level of confidentiality",Internship
+Software Testing Engineer -,ABSOLUT POH TEO INVESTMENT HOLDING LLP,NA,"Email: hr_admin@acpcomputer.edu.sg
+
+Requirements for Test Engineer:
+(a) Responsibilities:
+The candidate is responsible for the end-to-end testing activities of an integrated e-payment system. The primary responsibilities would include carrying out the activities in the testing lifecycle including test planning, and analyzing business and system requirements.
+The candidate will also be responsible:
+Preparing the test environment, designing, and developing the test cases.
+Preparing the test environment, and executing the test procedures.
+Automating the test solution based on the system design using scripting or programming languages as well as performance tuning.
+Create traceability to requirements, analyze gaps, and address them.
+Logging and tracking defects to closure
+Conducting test reviews with internal and external stakeholders.
+Perform root cause analysis for production and user acceptance defects, and address test gaps to ensure test efficiency.
+Develop design documents and user manuals that would effectively describe and provide clear instructions on the test automation solution to the end users include testers and stakeholders.
+(b) Qualifications & Requirements:
+Tertiary qualification in Information Technology or Engineering
+At least 3 years relevant experience in executing testing and developing test automation solutions involving devices (UI-based or embedded) and/or back-office systems with familiarity with the full system development lifecycle from requirement, and development, to testing and deployment;
+Good written and verbal communication skills;
+Able to work well both independently as well as in a team;
+Certification in software testing preferred;
+Experience in Micro-payments/Automatic Fare Collection systems using Smart Cards and in diverse test execution phases (System Integration Testing, User Acceptance Testing, and Performance testing) would be an advantage;","$3,000 - $5,000 a month - Full-time"
+Developer (Full Stack),NodeFlair,NA,"Job Summary
+
+Salary
+S$4,500 - S$6,500 / Monthly
+
+Job Type
+
+Seniority
+Junior
+
+Years of Experience
+At least 1 year
+
+Tech Stacks
+MariaDB Docker CI HTML JavaScript jQuery Node.js PHP MySQL React CSS Vue.js
+
+Job Description
+Responsibilities:-
+We are looking for Software Engineers & Developers to enhance our in-house product offerings and build the next generation Med-Tech applications.
+You will work with a team of Developers, Designers and Product Managers throughout the software development cycle.
+
+Requirements:-
+Self-Taught, Fresh-Grads and Experienced Professionals all welcome. As long as you can show a good portfolio of work/personal projects we are chill.
+Javascript nerds will get an edge.
+Passion for leveraging technology to help solve healthcare issues and improve the quality of lives of both medical professionals and patients.
+Be able to demonstrate technical abilities in personal/professional projects is critical
+Stickler for best practices and keeping your code clean is a plus
+Advantageous: Javascript (NodeJS, VueJS, ReactJS jQuery), PHP (Laravel), HTML/CSS Frameworks (Bootstrap), MySQL/MariaDB, cloud services (AWS), serverless concepts, Docker containers, Micro Services, CI/CD, general IT security concepts and data privacy awareness.","$4,500 - $6,500 a month"
+Software Engineering Internship â€“ Summer 2024,Hudson River Trading,NA,"Please only apply to one job posting. We recommend you apply for the position/office you are most interested in. Upon review of your application, if your skill sets are better suited for another position, we will reach out and let you know. If you are interested in multiple offices, you will have the opportunity to indicate that below in the application questions.
+HRT is seeking highly motivated full-time students for our software engineering summer internship program. We are looking for smart programmers who love to code, love to learn, and who can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading.
+What to Expect
+A hands-on introduction to all technical facets of software engineering in the algorithmic trading industry
+Independent programming projects in C, C++, or Python, depending on the needs of the project
+As you go through structured and hands-on trainings, you'll transition right into projects within the first week
+You'll have an opportunity to learn all about HRT's research and trading infrastructure, even in areas you may not be working in directly
+In addition to technical project work and mentorship, you'll also gain a deeper understanding of global financial markets
+Requirements
+You are a full-time undergraduate student studying Computer Science or a related field who is eligible for full-time roles in 2025
+Programming experience in C, C++, or Python is required
+A passion for technology and writing code that is elegant, readable, and efficient
+Exceptional problem solving skills
+Strong communication skills
+Knowledge of trading and/or financial markets is not required for this position
+Culture
+Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading.
+
+At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We're a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organizationâ€”from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we're friends and colleagues â€“ whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office.
+
+Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we'd love to get to know you.","Full-time, Internship"
+Software Engineer Intern,NodeFlair,NA,"Job Summary
+
+Job Type
+Permanent
+
+Seniority
+Intern
+
+Years of Experience
+Information not provided
+
+Tech Stacks
+API JavaScript SQL PostgreSQL React
+
+Job Description
+The Mobbin platform serves over 500,000 inspiration-seekers across the world and handles 20 million API requests weekly.
+
+We are hiring a software engineer intern to join one of our cross-functional teams. You will be assigned to a team based on your interest and suitability assessed during the interviews.
+The Product Team is responsible for deepening the value for our customers and bringing delight to our users.
+The Growth Team is responsible for optimising key metrics for the company, such as acquisition, retention, engagement, and monetisation.
+The Machine Learning Team is responsible for the research and development of production-ready ML models for internal and external use.
+As a software engineer intern at any teams in Mobbin, you will be responsible for delivering high value features or improvements. No intern works on non-essential projects.
+
+Our Engineering Department, whilst small, provides the technological capability that turn our ideas into software that drives global impact at scale. We take great care to balance the need for stable technologies yet exercise tact in choosing cutting edge technologies that pays forward to our long term goals.
+
+What You'll Do...
+Focus 75% on front-end and 25% on back-end.
+Design and write high-quality and reliable code, including writing tests and documentation with some supervision.
+Collaborate with your fellow team members (for example, product designers, engineers, etc).
+Harness data across our data stack to derive insights.
+Clearly propose and articulate your technical decisions and the trade-offs incurred.
+Identify areas of codebase that can use improvements and execute on suggestions for better developer experience, performance, or otherwise.
+You should...
+Have a strong interest and moderate experience in web development.
+Have moderate experience in React, JavaScript and any strongly-typed language(s).
+Be moderately proficient in Postgres, SQL, and/or relational databases.
+Have strong computer science fundamentals.
+Be deeply curious about how things work and why things are the way they are.
+Be able to communicate effectively and have good written communication skills.
+Have a strong desire to make foundational codebase improvements.
+[Bonus] Have a strong visual taste and hold a high bar for aesthetics.
+What We Offer...
+Competitive salary
+Medical claims
+Flexible work hours
+Remote work options - you will choose your work schedule and location
+Possibility of extension or part-time work arrangements post-internship
+Possibility of full-time offer following the internship","Part-time, Internship"
+Title,Company,Pay,Description,Type
+Software Engineer (Front-end),NodeFlair,NA,"Job Summary
+
+Salary
+S$5,000 - S$6,500 / Monthly
+
+Job Type
+
+Seniority
+Junior
+
+Years of Experience
+At least 2 years
+
+Tech Stacks
+SCSS Git Angular JavaScript CSS
+
+Job Description
+WHO WE ARE
+Digify is a cloud-based document security and data room software that allows customers to control, protect and track important documents after sharing them. Companies use Digify to protect confidential information for fundraising and due diligence, secure intellectual property, and protect sensitive communications.
+Digify is used in 138 countries today. We have more than 500,000 users worldwide.
+
+WHAT YOU'LL BE DOING:
+Design, program, and test software.
+Maintain existing software systems by identifying and fixing software bugs.
+Create technical specifications and test plans.
+Create, maintain, and extend operational documentation.
+Consult with management and colleagues regarding business requirements.
+Design and maintain the application and operational architecture of the product.
+Learn to be a subject matter expert who provides technical suggestions to the technical manager.
+Explore and develop skills in new software technologies.
+Work in a small, experienced and dynamic team on a fast-paced, agile development schedule.
+REQUIREMENTS
+A degree in Computer Science or Computer Engineering.
+2-5 years of experience as a frontend developer in a software company.
+Proficient understanding of web markup, including HTML5 and CSS3.
+Strong expertise in client-side scripting and JavaScript frameworks, especially Angular.
+Good understanding of server-side CSS pre-processing platforms, such as SCSS.
+Familiarity with front-end build tools
+Proficient understanding of code versioning tools, such as Git.
+Experience with responsive and adaptive design.
+Strong troubleshooting and problem solving skills.
+Ability to develop solutions independently.
+Ability to quickly adapt to new designs and requirements.
+Passionate about sofware development. Desire to learn and develop your professional skills.
+This job is based in Singapore.
+BENEFITS
+Group health insurance.
+Paid annual leave (15 days)
+Birthday leave (1 day).
+Self-development benefits
+Performance bonus","$5,000 - $6,500 a month"
+Software Engineer - SAST Scanning,ByteDance,NA,"About the Company
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+
+About the Team
+About the Security Assurance Team at ByteDance
+The team is missioned to build infrastructures, platforms and technologies, as well as to support cross-functional teams to protect our users, products and infrastructures. In this team, you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and secure-by-design systems and solutions. Our challenges are not your regular day-to-day technical problems; you'll be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech. It's working fast, at scale, and we're making a difference.
+
+Job Responsibility
+1. Develop and improve the SAST analysis engine to discover security bugs in the code.
+2. Integrate SAST capabilities into company processes to establish automated discovery and disposal processes.
+3. Evaluate and verify the results of SAST, provide detailed reports and recommendations, and promote problem solving and system improvement
+4. Provide support services for development and promote problem solving and code improvement.
+Minimum Qualifications
+1. Familiar with multiple languages such as Go or Python, with sufficient understanding of the OWASP Top 10 vulnerability principles and vulnerability code scenarios.
+2. Have good SAST tool development and debugging ability.
+3. Master common code audit ideas in the industry (such as taint tracking), and be familiar with the principles of well-known SAST tools.
+Preferred Qualifications
+1. Have solid offensive and defensive technical capabilities such as web security, code audit, and penetration test.
+2. Have good team communication and collaboration skills, and good professional ethics.
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",NA
+Software Developer â€“ Front-End,NodeFlair,"$3,000 - $6,000 a month","Job Summary
+
+Salary
+S$3,000 - S$6,000 / Monthly
+
+Job Type
+
+Seniority
+Junior
+
+Years of Experience
+At least 1 year
+
+Tech Stacks
+Less HTML JavaScript CSS
+
+Job Description
+As a Front-End Developer, you are entrusted with the mission of transforming our designs into interactive HTML. You will have to be brave enough to forge new routes in HTML with your CSS and Javascript techniques. Xtremax believes in grooming new talents, so we welcome less experienced front-end developers to join our ship. As long as you are creative and able to collaborate with fellow sailors on deck, we would love for you to join our team.
+Responsibilities:
+Modify templates for CMS or web development framework beautifully.
+Construct visual graphic designs based on HTML, CSS, and live interaction with Javascript.
+Seeing the web as dynamically functional, meanwhile maintaining the aspects of design.
+Develop test plans and test cases for all devices, complete with functional documentations based on the project methodology.
+Requirements:
+Experience in HTML syntax for various specifications
+Understanding of markups used for layout also has the ability to hand-code markups
+Experience in organizing CSS Files and specifying various CSS for different media and devices
+Understanding of CSS basics and essentials, also familiar with the development and debugging tools for cross-browser and multiple-devices issues
+Good written also verbal communication skills & fresh graduates are welcome to apply","$3,000 - $6,000 a month - Fresh graduate"
+Software Engineering Internship (min 5 months),NCS,NA,"Software Engineering Internship (min 5 months)
+
+Date: 23 Mar 2024
+Location: Singapore, Singapore
+Company: Singtel Group
+NCS is the leading technology services firm that operates across the Asia Pacific region in over 20 countries, providing consulting, digital services, technology solutions, and more.
+
+We believe in harnessing the power of technology to achieve extraordinary things, creating lasting value and impact for our communities, partners, and people. Our diverse workforce of 12,000 has delivered large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.
+
+You will have the opportunity to learn
+How to perform technical tasks so as to develop/enhance software applications according to Functional and Technical specifications.
+How to analyse process/program specifications & translate specifications to program codes, conforming to program guidelines and programming best practices.
+How to make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls & audits.
+How to develop unit test package, execute tests & document test results to ensure the quality of the program.
+How to assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment.
+How to Investigate all reported problems/errors & initiate amendments & testing so that the system can operate correctly & efficiently.
+How to prepare & maintain up-to-date system documentation.
+The ideal profile should be/have:
+Pursuing a Diploma/Bachelorâ€™s degree in Computer Science or related engineering fields.
+Knowledge in one or more frontend framework (HTML5/Angular/React JS).
+Knowledge in one or more backend languages (Java/.NET/Python/PHP/C++).
+
+As Asiaâ€™s leading technology services firm, NCS as part of the Singtel Group, aims to create sustainable value for all our stakeholders. We aspire to create the extraordinary, to impact millions of people every day, and to create a positive impact on our environment. Our sustainability strategy sets out the key Environmental, Social and Governance (ESG) areas that aim to create the NCS impact for our clients, our people and our future.
+
+We Grow our People, Value our Clients, and Create our Future.
+
+We want to change the way we live and work for the better, to create new and sustainable business growth, and to foster an inclusive future for all.
+
+You can find out more about our Groupâ€™s sustainability focus to guide how you can contribute to our objectives at Sustainability Reports.
+
+About NCS Group
+We believe in building a talent-led delivery model to enable our best people to lead, and to support them with the right structure, processes, and tools to ensure that our clients are delivered top quality services. Great work is never done alone, which is why we also believe in fostering a collaborative work environment where people with different expertise and talent can come together.
+
+Weâ€™re here to make the extraordinary happen.
+
+Find out more at ncs.co and our LinkedIn career site.
+
+We handle all profiles with the highest level of confidentiality",Internship
 Software Testing Engineer -,ABSOLUT POH TEO INVESTMENT HOLDING LLP,"$3,000 - $5,000 a month","Email: hr_admin@acpcomputer.edu.sg
 
 Requirements for Test Engineer:
@@ -49,6 +435,103 @@ Good written and verbal communication skills;
 Able to work well both independently as well as in a team;
 Certification in software testing preferred;
 Experience in Micro-payments/Automatic Fare Collection systems using Smart Cards and in diverse test execution phases (System Integration Testing, User Acceptance Testing, and Performance testing) would be an advantage;","$3,000 - $5,000 a month - Full-time"
+Developer (Full Stack),NodeFlair,NA,"Job Summary
+
+Salary
+S$4,500 - S$6,500 / Monthly
+
+Job Type
+
+Seniority
+Junior
+
+Years of Experience
+At least 1 year
+
+Tech Stacks
+MariaDB Docker CI HTML JavaScript jQuery Node.js PHP MySQL React CSS Vue.js
+
+Job Description
+Responsibilities:-
+We are looking for Software Engineers & Developers to enhance our in-house product offerings and build the next generation Med-Tech applications.
+You will work with a team of Developers, Designers and Product Managers throughout the software development cycle.
+
+Requirements:-
+Self-Taught, Fresh-Grads and Experienced Professionals all welcome. As long as you can show a good portfolio of work/personal projects we are chill.
+Javascript nerds will get an edge.
+Passion for leveraging technology to help solve healthcare issues and improve the quality of lives of both medical professionals and patients.
+Be able to demonstrate technical abilities in personal/professional projects is critical
+Stickler for best practices and keeping your code clean is a plus
+Advantageous: Javascript (NodeJS, VueJS, ReactJS jQuery), PHP (Laravel), HTML/CSS Frameworks (Bootstrap), MySQL/MariaDB, cloud services (AWS), serverless concepts, Docker containers, Micro Services, CI/CD, general IT security concepts and data privacy awareness.","$4,500 - $6,500 a month"
+Software Engineering Internship â€“ Summer 2024,Hudson River Trading,NA,"Please only apply to one job posting. We recommend you apply for the position/office you are most interested in. Upon review of your application, if your skill sets are better suited for another position, we will reach out and let you know. If you are interested in multiple offices, you will have the opportunity to indicate that below in the application questions.
+HRT is seeking highly motivated full-time students for our software engineering summer internship program. We are looking for smart programmers who love to code, love to learn, and who can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading.
+What to Expect
+A hands-on introduction to all technical facets of software engineering in the algorithmic trading industry
+Independent programming projects in C, C++, or Python, depending on the needs of the project
+As you go through structured and hands-on trainings, you'll transition right into projects within the first week
+You'll have an opportunity to learn all about HRT's research and trading infrastructure, even in areas you may not be working in directly
+In addition to technical project work and mentorship, you'll also gain a deeper understanding of global financial markets
+Requirements
+You are a full-time undergraduate student studying Computer Science or a related field who is eligible for full-time roles in 2025
+Programming experience in C, C++, or Python is required
+A passion for technology and writing code that is elegant, readable, and efficient
+Exceptional problem solving skills
+Strong communication skills
+Knowledge of trading and/or financial markets is not required for this position
+Culture
+Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading.
+
+At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We're a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organizationâ€”from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we're friends and colleagues â€“ whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office.
+
+Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we'd love to get to know you.","Full-time, Internship"
+Software Engineer Intern,NodeFlair,NA,"Job Summary
+
+Job Type
+Permanent
+
+Seniority
+Intern
+
+Years of Experience
+Information not provided
+
+Tech Stacks
+API JavaScript SQL PostgreSQL React
+
+Job Description
+The Mobbin platform serves over 500,000 inspiration-seekers across the world and handles 20 million API requests weekly.
+
+We are hiring a software engineer intern to join one of our cross-functional teams. You will be assigned to a team based on your interest and suitability assessed during the interviews.
+The Product Team is responsible for deepening the value for our customers and bringing delight to our users.
+The Growth Team is responsible for optimising key metrics for the company, such as acquisition, retention, engagement, and monetisation.
+The Machine Learning Team is responsible for the research and development of production-ready ML models for internal and external use.
+As a software engineer intern at any teams in Mobbin, you will be responsible for delivering high value features or improvements. No intern works on non-essential projects.
+
+Our Engineering Department, whilst small, provides the technological capability that turn our ideas into software that drives global impact at scale. We take great care to balance the need for stable technologies yet exercise tact in choosing cutting edge technologies that pays forward to our long term goals.
+
+What You'll Do...
+Focus 75% on front-end and 25% on back-end.
+Design and write high-quality and reliable code, including writing tests and documentation with some supervision.
+Collaborate with your fellow team members (for example, product designers, engineers, etc).
+Harness data across our data stack to derive insights.
+Clearly propose and articulate your technical decisions and the trade-offs incurred.
+Identify areas of codebase that can use improvements and execute on suggestions for better developer experience, performance, or otherwise.
+You should...
+Have a strong interest and moderate experience in web development.
+Have moderate experience in React, JavaScript and any strongly-typed language(s).
+Be moderately proficient in Postgres, SQL, and/or relational databases.
+Have strong computer science fundamentals.
+Be deeply curious about how things work and why things are the way they are.
+Be able to communicate effectively and have good written communication skills.
+Have a strong desire to make foundational codebase improvements.
+[Bonus] Have a strong visual taste and hold a high bar for aesthetics.
+What We Offer...
+Competitive salary
+Medical claims
+Flexible work hours
+Remote work options - you will choose your work schedule and location
+Possibility of extension or part-time work arrangements post-internship
+Possibility of full-time offer following the internship","Part-time, Internship"
 Software Engineer (Front-end),DIGIFY PTE. LTD.,"$5,000 - $6,500 a month","WHO WE ARE
 Digify is a cloud-based document security and data room software that allows customers to control, protect and track important documents after sharing them. Companies use Digify to protect confidential information for fundraising and due diligence, secure intellectual property, and protect sensitive communications.
 Digify is used in 138 countries today. We have more than 500,000 users worldwide.
@@ -83,573 +566,57 @@ Paid annual leave (15 days)
 Birthday leave (1 day).
 Self-development benefits
 Performance bonus","$5,000 - $6,500 a month - Full-time"
-Junior Software Engineer,LEAPTECHNOLOGY PTE. LTD.,"$2,000 - $4,000 a month","Job Description:
-Designing, developing, implementing, and maintaining web-based/mobile applications.
-Designing, developing, implementing, and maintaining server and backend infrastructure.
-Providing support to clients as needed.
-Participating in the planning of the company's technical roadmap in collaboration with the business team.
-Job Requirements:
-Proficient understanding of various technologies, programming languages, and frameworks including PHP, CSS, HTML5, NodeJS, VueJs
-Strong grasp of computer science principles.
-Ability to collaborate effectively with colleagues to achieve the aforementioned objectives.
-Willingness to undertake any other ad hoc duties as assigned by Management or immediate Supervisor","$2,000 - $4,000 a month - Contract"
-Software Engineer (Frontend),NodeFlair,"$4,500 - $6,000 a month","Job Summary
+Software Engineer Intern,Archisen,NA,"Do drop us an email to hrs@archisen.com with your CV if you are interested in this position. Please indicate your available start date.
 
-Salary
-S$4,500 - S$6,000 / Monthly
-
-Job Type
-
-Seniority
-Junior
-
-Years of Experience
-At least 1 year
-
-Tech Stacks
-Spring DOM SASS Java Springboot JavaScript MySQL CSS
-
-Job Description
-Do you have a strong passion for writing good, maintainable and robust code? Join us and be part of the family that believes in good software design, delivering quality well tested solutions. Help establish Ufinity as the trusted partner by constantly achieving a pinnacle of excellence in our ideas, solutions and services.
-As a Software Engineer, you will have the opportunity to deliver a quality solution to our clients.
-Your broad responsibilities include:
-Software design and Agile software development;
-Working closely with design team to develop the UI of the software based on the designs they have
-Collaborating with backend developers to integrate the software
-Testing and ensuring quality in the development lifecycle; and
-Support the software in the production environment.
-
-Requirements:
-Possess at least a Bachelor’s Degree, Post Graduate Diploma, of Professional Degree in Computer Science / Information Technology, Engineering (Computer / Telecommunication). Fresh graduates are welcome to apply.
-Those with more years of experience will be considered for a Senior Software Engineer role.
-
-Required skills:
-Proficient in HTML5
-Proficient in CSS3 and CSS preprocessors, specifically SASS
-Familiar with Javascript in the following aspects:
-manipulating DOM elements and updating computed styles dynamically
-Vue3 framework
-Able to do animation with CSS/Javascript will be a bonus
-Basic knowledge of MYSQL
-Excellent communication and collaboration skills
-Good to have:
-Java, Spring Boot","$4,500 - $6,000 a month - Fresh graduate"
-Junior Software Engineer,NodeFlair,"$4,108 - $6,118 a month","Job Summary
-
-Salary
-S$4,108 - S$6,118 / Monthly EST
+This is an opportunity to be part of a unique software development team. We have a solid technology roadmap and a team of exceptional individuals. You will be given the opportunity to experiment while applying knowledge and skills taught in school in our lab and farms, while working directly with the managers, founders and collaborators.
+What we Expect from you?
+Assist in the development of websites/mobile applications
+Designing page wireframes/layouts and custom graphics, formatting content, quality assurance testing, translating wireframes to web-apps to be used by our own staff
+Improving current IoT infrastructure for our indoor farm
+Working with external collaborators to integrate modules into our web-apps
+Developing APIs for IoT components to interact with
+Requirements
+Diploma in relevant computing programmes
+Must be able to work in a team environment
+Must demonstrate good communications skills
+Demonstrated skills in software design & development
+Comfortable with Unix command line (eg Linux)
+Some experience in NodeJS, MySQL, MongoDB, HTML
+Working knowledge of JQuery, Bootstrap
+Bonus Requirements
+Working knowledge in Angular or React
+Knowledge of Python, NoSQL, Git and Amazon Web Services S3, EC2
+Basic Photoshop/ GIMP photo manipulation skills
+Basic knowledge of Machine/Deep Learning (Tensorflow, Keras, etc)
+Basic knowledge of Embedded Systems Programming
+Basic knowledge of Networking (Port Forwarding, Static IPs, etc)
+Basic understanding of Version Control, Git is preferred",Internship
+Software Engineer (Fresh Graduate),NodeFlair,,"Job Summary
 
 Job Type
 Permanent
 
 Seniority
-Junior
 
 Years of Experience
 Information not provided
 
 Tech Stacks
-AWS Azure Java Angular JavaScript .NET PHP React Python
+Ember HTML Angular JavaScript React CSS
 
 Job Description
-Role- Junior Software Engineer (Next Generation Talent)
-Location - Marina Bay Financial Centre, Singapore
-Do you thrive on bringing ideas to life through code? Imagine collaborating with diverse stakeholders to grasp complex business needs and translating them into elegant software solutions. This role offers you the chance to make a real impact through the power of technology.
-What You'll Do:
-Bridge the Gap: Unravel business requirements and translate them into clear technical specifications.
-Craft with Precision: Develop and refine software applications, ensuring exceptional functionality and performance.
-Maintain & Optimize: Nurture existing applications, keeping them efficient and secure.
-Test with Confidence: Execute rigorous testing across all levels, guaranteeing reliability and usability.
-Automate for Success: Streamline deployments with configuration management and automation tools.
-Innovate & Improve: Continuously identify opportunities to enhance systems and user experience.
-What You Bring:
-Solid Foundation: A Computer Science or related Engineering degree equips you with the technical prowess.
-Sharp & Eager: Recent graduate or up to 2 years of hands-on experience showcase your agility.
-Frontend Expertise: Master the art of user interfaces with frameworks like HTML5, Angular, or React JS.
-Backend Powerhouse: Command backend languages like Java, .NET, Python, or PHP.
-Data Adeptness: Database proficiency is a valuable bonus.
-Full-Stack Potential: Experience in both frontend and backend development gives you an edge.
-Cloud Enthusiast: Familiarity with Cloud Platforms- AWS, Azure, GCP would be additional asset.
-Ready to develop, refine software, collaborate with diverse teams, & make a real impact.? Join our team and make a meaningful impact!
-Let's talk about what's in it for you!
-Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.
-As ""Architects of Positive Futures"", Capgemini actively supports the community in 3 ways:
-Diversity and Inclusion - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini and OutFront support the grassroots passion of employees to drive our diversity agenda and effect change.
-Digital inclusion - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.
-Environmental Sustainability - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious ""A list"" for its commitment to the Net-Zero economy. We are focusing on helping our clients transform towards more sustainable business models and committing to reduce our own carbon emissions (GHG) by 20% per employee by 2020.
-Recognized by Ethisphere as one of the World's Most Ethical Companies for the last 8 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, click here to listen to some of our employee’s stories.
-Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.","$4,108 - $6,118 a month - Permanent"
-Full Stack JavaScript Developer,NodeFlair,"$7,219 - $11,541 a month","Job Summary
+You are someone who wants to see the impact of your work making a difference every day. You find passion in the craft and are constantly seeking improvement and better ways to solve tough problems.
 
-Salary
-S$7,219 - S$11,541 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Senior Mid
-
-Years of Experience
-4-8 years
-
-Tech Stacks
-AWS Docker CI JavaScript Node.js PostgreSQL GraphQL
-
-Job Description
-Responsibilities:
-
-Design and develop new features for the SaaS platform corresponding to a financial reporting solution
-Collaborate with cross-functional teams to identify and implement new products and improve the existing systems
-Develop and maintain documentation of the SaaS Platform architecture, including best practices and coding standards.
-Debug, troubleshoot and provide production support for microservices based applications
-Implement automated testing and continuous integration/continuous deployment (CI/CD) processes to ensure quality and efficiency in the development cycle.
-
-Mandatory Skills:
-
-Computer Science Bachelor or Master
-4 to 8 years of professional experience
-Software-as-a-Service (SaaS) on AWS (preferably AWS, but other cloud can be considered)
-Expertise in Full Stack JavaScript development
-Stack: Vue3 | Tailwind | Node.js | GraphQL | PostGRESQL
-Ability to quickly adapt to new environments and solve complex problems
-Proactive attitude towards challenges, with a solution-oriented mindset
-Excellent verbal and written communication skills, essential for collaboration within an international team
-Passionate about technologies and eager to make a significant contribution to the team
-
-Nice-to-Have Skills:
-
-Ideally, has already worked in a Fintech or in the asset management industry
-Experience in managing on-premise infrastructures via Docker and in AWS cloud
-
-Languages:
-
-English: B2 Upper Intermediate","$7,219 - $11,541 a month - Permanent"
-"Junior Software Engineer (Digital Diagnostics), DxD",NodeFlair,"$3,609 - $6,902 a month","Job Summary
-
-Salary
-S$3,609 - S$6,902 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Junior
-
-Years of Experience
-Information not provided
-
-Tech Stacks
-Rest API API iOS Android JavaScript React Django
-
-Job Description
-The candidate will be attached to the Digital Health Solutions department. He/she will be Involved in development of software solutions through projects at DxD Hub. In this position, the candidate will gain exposure to the product development life cycle of software as medical device (SaMD), and breadth of technologies and disease states in the digital health space.
-
-The job activities include but not limited to the list below:
-
-Analyze and draft software specifications and other design and develop features based on product requirements
-Quick software prototyping for test-bedding of software for use case scenarios
-Development of frontend and backend software for the specific projects
-Potentially working with various startups to develop web apps, mobile apps on Android or iOS platform for healthcare applications
-Perform software documentation, verification testing, software validation, troubleshooting and optimization to ensure requirements are met.
-Liaise and coordinate with team for software deployment and Usability testing.
-Work with Project manager
-to conceptualize product with inputs from researchers, clinicians, and industry to design novel and clinically relevant digital health applications.
-Oversee product development, verification, and validation of digital health applications.
-Write software documentation in accordance with ISO 13485
-Compile and communicate software development for progress reports for milestone reviews with management
-Support the research team in the execution of the project
-
-Job Requirements (Qualification And Softskills)
-A minimum bachelors degree in Computer Science/Information Technology, Engineering or equivalent.
-Technical Skills
-Some Hands-on experience software engineering and coding
-Knowledge in Phyton, React JS, Django, Django REST API, React framework
-Knowledge in software development and testing
-Knowledge of cybersecurity and cloud architectures is a plus
-Knowledge in app develop on either Android or iOS platform is a plus
-
-Soft Skills
-Able to communicate effectively, multi-task and able to work in a dynamic environment
-Ability to work in cross functional teams
-Well organized, with good interpersonal and written communication skills
-
-Abilities/Aptitudes
-Highly motivated and results driven
-Proactive and takes ownership of the projects
-Adaptable to work exigencies
-Works well as part of a team, yet able to work independently
-Prioritizes assigned tasks and manages time accordingly
-Self-learner","$3,609 - $6,902 a month - Permanent"
-Associate Fullstack Developer - Graduate Programme (May 2024 Intake),NodeFlair,"$5,500 - $5,600 a month","Job Summary
-
-Salary
-S$5,500 - S$5,600 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Junior
-
-Years of Experience
-Up to 2 years
-
-Tech Stacks
-AWS C++ API Spring Azure Java HTML Springboot Angular SQL Hadoop React Python
-
-Job Description
-Your Role and Responsibilities : We’re looking for a real-world problem solver with the technical savvy to make the impossible, possible. As an Associate Fullstack Developer, you’ll help design, develop, and integrate solutions using future-looking technologies, techniques, and products our clients demand today. You’ll work with clients, finding solutions to major challenges by translating system requirements into the design and development of customized systems in an agile environment.
-
-Work You Could Do As An Associate Fullstack Developer
-Define, detail and scope the technical requirements into solution architecture and drive an independent project from an architectural stand point.
-Design, develop and/or re-engineer application components, and integrate software packages, programs, and reusable objects residing on multiple platforms.
-Support Technical Consultants and lead in building solutions and providing technical mentoring and guidance
-
-Required Technical and Professional Expertise
-Bachelor Degree in Computer Science / Information Systems with 0 to 2 years of work experience
-Demonstrated programming proficiency and experience with 1 of the following (Java, C++, Python, SQL, Hadoop, HTML, Spring Boot, Tableau, Angular, React), as well as systems design/development, and information technology course work
-Exposure to web services, microservices, API, DevSecOps and multiple Java application frameworks highly desired
-Familiarity with Hyperscalers (e.g. AWS, Azure, Google, IBM Cloud) and cloud-native technologies
-Ability to translate business requirements into technical solutions
-Ability to thrive in an ever changing, technology based consulting environment, using agile development techniques
-
-Preferred Technical And Professional Expertise
-
-Due to the government client-facing nature of this role, it is a requirement for all applicants to hold Singaporean Citizenship.","$5,500 - $5,600 a month - Permanent"
-Senior/Software Developer (Java) - Entry level candidates welcome -DSC/EZ,NodeFlair,"$4,707 - $8,083 a month","Job Summary
-
-Salary
-S$4,707 - S$8,083 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Senior
-
-Years of Experience
-Information not provided
-
-Tech Stacks
-C++ AngularJS Java JavaScript SQL Node.js React
-
-Job Description
-Job Description:
-
-Collaborate with other developers and engineers to design, build, and maintain applications.
-Develop end-to-end specifications for solution components.
-Perform testing and implementation of the solution.
-Troubleshoot software issues and participate in impact analysis of encountered issues.
-Generate relevant documentations, reports etc.
-Contribute to continuous improvement of software development best practices.
-Keeping up-to-date with industry trends and technology developments.
-
-Requirements:
-
-Entry level candidates with good learning attitude and relevant experience can be considered.
-Familiar to full-stack development and understand concepts of software engineering.
-Knowledge of Agile Development methodology.
-Knowledge of basic coding languages such as Javascript, HTML5 ,C++, Java
-Knowledge of databases (SQL / NoSQL).
-Comfortable using AngularJS, NodeJS, ReactJS and other common frameworks to develop software for various platform.
-Ability to learn new software and technologies quickly.
-Ability to follow instructions and work in a team environment.
-Good team player with critical thinking, analytical and creative problem-solving skills.
-Detail-oriented.
-Candidates with more length/complexity of experience can be considered for the senior role","$4,707 - $8,083 a month - Permanent"
-Associate DevOps Engineer - Graduate Programme (May 2024 Intake),NodeFlair,"$4,958 - $7,458 a month","Job Summary
-
-Salary
-S$4,958 - S$7,458 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Junior
-
-Years of Experience
-Up to 2 years
-
-Tech Stacks
-HTTP Strategy GitLab TCP AWS AngularJS GitLab CI Spring Salt CI Chef Puppet Java React Native Kubernetes Springboot Angular Ansible JavaScript Node.js React
-
-Job Description
-IBM Application Consultants work directly with our clients on key initiatives. You will have the opportunity to build an in-depth understanding of their business issues and implement organizational strategies that drive adoption of change. We are looking for experts who can build credibility and trust with our clients and provide knowledge that addresses individual and unique business needs.
-
-Your Role and Responsibilities
-
-Work along with the Project teams to onboard new squads in the DevOps environment.
-Guiding the continuous integration, continuous deployment and continuous testing.
-Work closely with the development team and operation team to create DevOps strategy and toolset that suits the individual squads.
-Setup, deploy and maintain scalable, high availability systems
-Perform and automate deployment and security hardening of systems
-Automate and build up scalable systems/environment using latest technologies (e.g. Kubernetes)
-Automate security hardening in testing, deployment and production setup based on industrial best practices
-Setup and maintain CI/CD, automated testing, development and delivery environments
-Writing scripts/programs for service monitoring and health check of systems
-Day-to-day monitoring, backup, deployment and maintenance of systems
-
-Required Technical and Professional Expertise
-
-Bachelor Degree in Computer Science or Equivalent with 0 to 2 years of relevant experience
-Experience with cloud orchestration, configuration management and auto-scaling techniques
-Thorough knowledge of networking, routers, switches, and WiFi setup.
-Good knowledge of storage technologies, such as NAS, SAN, SDS
-Experience with automation tools such as Salt/Chef/Puppet/Ansible
-Experience with load balancing setup for TCP/IP, HTTP, DNS, routings.
-Knowledge of IT security standards, for instance from CIS or IM8.
-Experience on building and developing CI/CD pipeline and workflow (Gitlab CI/CD preferred)
-Good hands-on experience on using AWS Cloud Formation scripts for configuration management and application deployment
-Overall knowledge on one or more of the following programming language (Java, Spring Boot, Node JS, Angular JS, React Native)
-Knowledge on continuous integration, test automation, version control, and software configuration management.
-
-Preferred Technical And Professional Expertise
-
-Due to the government client-facing nature of this role, it is a requirement for all applicants to hold Singaporean Citizenship.","$4,958 - $7,458 a month - Permanent"
-Software Engineer - Frontend,NodeFlair,"$7,500 - $13,000 a month","Job Summary
-
-Salary
-S$7,500 - S$13,000 / Monthly EST
-
-Job Type
-Permanent
-
-Seniority
-Senior
-
-Years of Experience
-At least 6 years
-
-Tech Stacks
-API Analytics Flow Webpack Git Typescript ES6
-
-Job Description
 Job Responsibilities
-Develop UI of AICS web-based services
-Develop custom UI framework to match our needs
-Collaborate with UX designers and backend engineers to improve usability
-Routinely test for ease of use, speed, and other quality factors
-Create quality prototypes and mockups
-Ensure high-quality and consistent experiences
-Stay up-to-date on emerging technologies
-
-Highlights
-Strong engineering culture with growth opportunities
-Healthcare projects that bring social impact
-International and diversified team
-
-Challenges
-Fast-paced environment and challenging topic
-
-About the team
-The mission of ASUS Intelligent Cloud Services (AICS) is to provide revolutionary healthcare solutions in Software as a Service (SaaS) models, utilizing cutting-edge AI technology in natural language processing, computer vision, deep learning, and big data analytics. Our team is composed of software engineers, product managers, and designers with technical excellence across Taipei and Singapore offices.
-
-Qualifications and background
-Minimum of 6 years experience in web development.
-Solid modern web skills such as ES6, HTML5, CSS3, TypeScript, webpack, eslint…etc.
-Familiar with API integration with the back-end.
-Familiar with Git and knowledge of Git flow.
-Familiar with Vue 3.0.
-Good understanding of data structures, algorithms, and operating systems.
-Good interpersonal communication, strong sense of team spirit, and problem-solving skills.
-
-Disclaimer: When you submit your information to LinkedIn, your information will be collected, processed, and used by LinkedIn. LinkedIn will share your information to ASUS for job recruitment purpose.","$7,500 - $13,000 a month - Permanent"
-Full Stack Software Engineering Intern,ELGO TECHNOLOGIES PTE. LTD.,"$1,000 - $1,200 a month","Company Summary :
-ELGO Technologies is a dynamic startup at the forefront of AI technology, specializing in crafting bespoke AI solutions that drive business transformation. Our mission centers around the responsible use of AI, with a strong commitment to ethical practices, security, and user-centric design. We pride ourselves on our innovative approach to integrating AI in various business processes, fostering an environment where technology meets creativity to solve real-world challenges. We also strive to be the top LLM application experts in the region.
-
-Job Description:
-As a Full Stack Software Engineering Intern, you'll be instrumental in developing and maintaining our suite of AI-powered applications. Your role involves working across the full technology stack, from database management to front-end development, ensuring seamless integration and functionality. You will be working closely with our product development team, contributing directly to our internal suite of products. This position is a full-time internship for a period of minimum 4 months.
-
-Roles & Responsibilities:
-Design, develop, and maintain full-stack AI applications.
-Collaborate with cross-functional teams to translate business needs into technical specifications.
-Implement responsive UI/UX designs for an optimal user experience.
-Develop and maintain databases and server-side applications.
-Ensure code quality, sustainability, and scalability.
-Troubleshoot, debug, and upgrade existing software.
-Stay up-to-date with emerging trends in software development and Gen AI technologies.
-
-Requirements:
-
-Core Requirements
-Currently pursuing a Bachelor’s degree in Computer Science, Engineering, or related field.
-Good working knowledge on frontend and backend web application development.
-Advance frontend scripting using React.js
-Advance backend scripting using Golang
-Experience with database technology (e.g., MySQL, MongoDB, NoSQL DBs).
-Good working knowledge of Cloud Platforms (Main cloud: AWS, secondary clouds: Azure, GCP).
-
-Key Traits
-Strong problem-solving skills and willingness to learn new technologies.
-Excellent communication and teamwork skills.
-Willing to proactively voice opinions and thoughts on the business.
-Self-driven and proactive learner.
-
-Optional Requirements
-Familiarity with other programming languages (e.g., Python, Ruby, Java, JavaScript) and frameworks (e.g., Angular, React, Node.js, Django).
-Good understanding of AI and Gen AI technologies and concepts.
-Prior hands-on knowledge developing LLM applications
-Prior experience in developing custom enterprise solutions
-Experience with DevOps and MLOps
-
-What We Offer:
-Opportunity to work in a vibrant tech startup environment.
-Exposure to cutting-edge AI technologies and ethical AI practices.
-A supportive, inclusive, and dynamic team culture.
-Opportunities for accelerated professional growth and development.
-Opportunity to work on interesting projects with high business/social impact.
-
-ELGO Technologies is committed to equal employment opportunities and welcomes applications from all qualified candidates.","$1,000 - $1,200 a month - Full-time, Contract"
-Front End Engineer,Starstruck,"$1,000 - $1,200 a month","Company
-Starstruck
-getstarstruck.com
-Designation
-Front End Engineer
-Date Listed
-18 Mar 2024
-Job Type
-Entry Level / Junior Executive, Experienced / Senior Executive
-Full/PermIntern/TS
-Job Period
-Immediate Start, For At Least 3 Months
-Profession
-IT / Information Technology
-Industry
-Computer and IT
-Location Name
-Singapore
-Work from Home
-Allowance / Remuneration
-$1,000 - 1,200 monthly
-Company Profile
-Exciting opportunity to join the founding team of a ground breaking global tech start-up!
-Build cutting-edge tech for a new B2B SaaS solution.
-Are you...
-highly passionate to join an expert team with a relentless desire for greatness?
-hands-on front-end engineer?
-entrepreneurial?
-Job Description
-Front End Engineer - New Start-up!
-React.js
-Next.js
-Tailwind
-HTML + CSS
-Node.js
-NodeJS
-JavaScript Libraries
-JavaScript
-UI
-SaaS
-REST APIs
-JavaScript Frameworks
-Web Applications
-UX
-Application Instructions
-Please apply for this position by submitting your text CV using InternSG.
-Kindly note that only shortlisted candidates will be notified.","$1,000 - $1,200 a month - Internship"
-Web Developer & Full-Stack Coding Intern,MINDFLEX EDUCATION PTE. LTD.,"$1,000 - $1,200 a month","Quick Apply: You may send your Resume/CV to recruitment@singaporetuitionteachers.com or apply via MyCareersFuture.
-Office Location: 28 Sin Ming Lane, Midview City (Bright Hill/Marymount/Bishan MRT)
-Hi! Our awesome company is looking for University Interns who have experience in Web Development, & able to commit for a Full-Time Internship of 3 months or more (longer durations preferred).
-About Us:
-MindFlex Education's internship programme aims to provide internships which are fulfilling, as well as practical in real-world situations
-Our office culture is fun, young & encouraging. We take our work, as well as our fun seriously
-We provide full-time job opportunities for interns who have excelled in their internship
-Enjoy a modern office environment with exciting facilities, such as a PS5, Full-Sized Pool Table, High-End Karaoke System & more
-Close-knit team of 15-20 pax, strictly NO office politics, NO over-time culture, NO bring-work-home culture
-Web Developer Intern Roles and Responsibilities:
-Improve & automate company's business process through creation of new PHP web applications & improvement of existing code.
-Review of company's existing process systems to improve UI/UX for both internal and external users.
-Be involved in improvement of company's iOS & Android application
-Connecting SQL Databases to developed web applications
-Review and improve company's current cronjobs and APIs for both internal and external software.
-Ensure that new projects are moved from development phase to production phase smoothly, and are both desktop & mobile friendly.
-Spearhead development of new landing pages for company's website on WordPress platform, with usage of HTML & CSS code involved.
-Modify and improve current landing pages for company's website, with the addition of new functionalities.
-Data mining of websites and database for information to be used in company's IT projects.
-Learning Outcomes & Objectives:
-Intern will be exposed to the movement of IT projects from development phase to production phase in a systematic & meticulous manner.
-Intern will have the first-hand experience of building code which can be translated into real-world business usage, to solve actual business problems.
-Intern will learn how to manage expectations of different stakeholders, in particular balancing between ""design wants"" of the company and limitations of existing web platforms.
-Intern will gain valuable first-hand experience of developing mobile applications, as well as creating new website landing pages from scratch in a professional setting.
-Intern will gain insights on mining data content and using it for real-life application purposes.
-Intern will be able to review and suggest opinions on how certain UI/UX interfaces of the company can be improved, and carry out plans for improvement.
-Intern will also be able to review codes and script written by previous developers; learning from examples and improvement on existing code.
-Intern will also have access to a ""senior developer"" who will be able to answer queries & troubleshoot whever necessary
-Requirements:
-Has to be a current University Undergraduate in a computing-related course
-Possess some previous experience with website designing / programming
-Proficient with PHP, Javascript, HTML, CSS, Languages
-A good team player who is able to communicate effectively with various internal and external stakeholders
-Ability to think critically and be able to suggest possible improvements to existing company software systems
-Possess adequate problem-solving skills to tackle day-to-day issues independently
-Working Hours, Location & Remuneration:
-5 Days Work Week, Weekdays 9.00am - 6.30pm
-Midview City (Sin Ming Lane)
-Closest MRTs: Bright-Hill MRT (Door-Step), Bishan / Marymount MRT (nearby)
-$1,000 - $1,200/Month
-Interns will also be given several days of paid leave (depending on internship period)
-Why Choose Us:
-Fun Working Environment with No Office Politics!
-Casual Working Attire, Relaxed Setting
-Close-Knit Team of 15-20 Pax
-Spacious Office with Modern & Fun Entertainment Facilities (Pool Table, Playstation 5, Karaoke Set, Board Games...etc)
-Company Meals / Outings / Events / Bonding Activities
-Great & Enjoyable Company Culture
-Many of our interns have also converted to full-time & contract positions after their internship as they thoroughly enjoyed their learning experience with us
-Conveniently located with New Bright Hill MRT at Doorstep
-Application:
-Submit an e-mail application with Resume/CV to mindflex.recruitment@gmail.com with Email Title ""Web Developer Intern Application""
-Please ensure to include the following in Email and attached documents:
-1. Earliest Available Start-Date for Internship
-2. Available Duration for Internship
-3. Suitable Profile Picture of Yourself
-4. Is Undertaking The Internship for A Course Requirement, or Self-Improvement
-Others:
-Shortlisted candidates will be contacted for a short interview over Zoom or Face-to-Face
-Signing of Non-Compete contract will be required upon successful selection","$1,000 - $1,200 a month - Part-time, Full-time, Temporary, Contract, Internship, Freelance"
-Software Engineer (Backend) Intern,Univers,"$1,800 a month","Company
-Univers
-univers.com
-Designation
-Software Engineer (Backend) Intern
-Date Listed
-27 Feb 2024
-Job Type
-Entry Level / Junior Executive
-Intern/TS
-Job Period
-From May 2024 - Dec 2024
-Profession
-IT / Information Technology
-Industry
-Computer and IT
-Location Name
-HarbourFront Avenue, Keppel Bay Tower, Singapore
-Work from Home
-Address
-1 HarbourFront Ave, Singapore 098632
-Map
-Allowance / Remuneration
-$1,800 monthly
-Company Profile
-Univers provides the world’s most comprehensive decarbonization system.
-We help companies and countries optimize energy systems and reduce carbon emissions with accurate, reliable, and actionable decarbonization data. Our EnOS (Energy and Environment Operating System) platform connects on-the-ground operational technology and in-the-cloud intelligence to deliver real-time energy data and data-driven carbon monitoring, reporting, and abatement.
-With 220 million sensors and smart devices connected, 550GW of renewable energy under management, and a community of over 500 customers, we’re helping the world’s leading businesses get the world to net zero—and what comes after it.
-For more information, please visit https://univers.com/
-Job Description
-Backend Developer Intern
-Roles and Responsibilities:
-Work as product developer to implement new features in EnOS IoT Platform, e.g. Device Connection & Management, Device Provision, Data Integration, etc.
-Utilize IoT Platform and other PaaS, SaaS or open-source technology to explore how to build new applications.
-Perform in complete software process, deliver with quality, and support maintenance team.
-Desired Skills and Experience:
-Computer Science or Software Engineering education background.
-Comfortable with coding. Knowledge of basic data structure & algorithm (e.g. map, set, tree, etc.) and computer networking topics (e.g. TCP/IP).
-Familiar with object-oriented programming. Experience in Java or keen to practice Java coding during internship.
-Knowledge and experience in modern middleware and technology (e.g. message queue, SQL and NoSQL, Kubernetes, etc.) will be preferred.
-Work experience in other software internships is preferred but not necessary.
-Application Instructions
-Please apply for this position by submitting your resume to .
-Kindly note that only shortlisted candidates will be notified.","$1,800 a month - Internship"
+Design, develop, implement, and maintain new and existing web applications and APIs.
+Collaborate with product, data and design to define the future of the ShopBack experience
+Coordinate across our engineering hubs to improve engineering efficiency and service quality
+Build great products that impacts consumer purchasing behaviour
+Job Requirements
+Pursuing Bachelorâ€™s degree in Computer Science or related major
+Good knowledge on data structure and algorithms and an ability to use them practically when implementing solutions
+Constantly curious, always looking to learn new technologies
+Strong knowledge of HTML, CSS, and JavaScript
+Experience with client-side frameworks eg. Angular, Ember, Vue, React etc.
+Strong analytical, problem-solving, communication, and decision-making skills
+Excellent communication ability and desire to thrive in a high-growth startup environment",Permanent

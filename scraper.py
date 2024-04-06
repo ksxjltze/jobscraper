@@ -32,7 +32,7 @@ driver.get(BASE_URL + QUERY)
 driver.maximize_window()
 
 title = driver.title
-wait = WebDriverWait(driver, 20)
+wait = WebDriverWait(driver, 10)
 
 acceptCookiesButtonLocator = (By.ID, "onetrust-accept-btn-handler")
 wait.until(EC.element_to_be_clickable(acceptCookiesButtonLocator)).click()
@@ -55,7 +55,7 @@ def sleep_random(min_sleep_time, max_sleep_time):
     time.sleep(sleep_time_clamped)
     
 def write_to_csv():
-    with open('jobs.csv', 'w', newline='') as csvfile:
+    with open('jobs.csv', 'a', newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         
         headers = ['Title', 'Company', 'Pay', 'Description', "Type"]
@@ -64,14 +64,14 @@ def write_to_csv():
         for job in jobs_data:
             writer.writerow(iter(job))
         
+        jobs_data.clear()
         csvfile.close()
     
 def finalize():
-    driver.quit()              
-    for job in jobs_data:
-        print(job[0] + " (" + job[1] + ")" + " - " + job[2])
-        
+    print("FINALIZING")       
     write_to_csv()
+    
+    driver.quit()       
     exit()
 
 try:
@@ -86,11 +86,16 @@ try:
             
             try:
                 jobPane = driver.find_element(By.ID, "jobsearch-ViewjobPaneWrapper")
-            except:
+                
+            except Exception as e:
+                print(e)
+                
                 try:
                     skeletonLocator = (By.XPATH, "//div[@data-testid='viewJob-skeleton']")
                     wait.until(EC.presence_of_element_located(skeletonLocator))
-                except:
+                    
+                except Exception as e2:
+                    print(e2)
                     finalize()
                     break
             
@@ -100,10 +105,16 @@ try:
             companyInfo = job.find_element(By.CLASS_NAME, "company_location")
             companyName = companyInfo.find_element(By.CSS_SELECTOR, "span[data-testid='company-name']")
             
+            jobTitleText = ""
             jobDescription = ""
+            jobInfoText = ""
+            payText = ""
+            companyNameText = ""
+            
             try:
                 jobDescription = jobPane.find_element(By.ID, "jobDescriptionText").text
-            except:
+                
+            except Exception as e:
                 jobDescription = "NA"
             
             jobTitleText = jobTitle.text.strip()
@@ -113,7 +124,8 @@ try:
                 try:
                     infoAndJobTypeElement = jobPane.find_element(By.ID, "salaryInfoAndJobType")
                     jobInfoText = infoAndJobTypeElement.text
-                except:
+                    
+                except Exception as e2:
                     print("No job info found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
                     jobInfoText = "NA"
                 
@@ -121,7 +133,7 @@ try:
                 payText = payElement.text.strip().removeprefix("Pay\n")
                 print(payText + ": (" + jobTitleText + ")" + " - " + companyNameText)
                 
-            except:
+            except Exception as e:
                 print("No pay found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
                 payText = "NA"
                 
@@ -139,8 +151,12 @@ try:
             wait.until(EC.element_to_be_clickable(nextPageLinkLocator)).click()
             currentPage += 1
             
-        except:
+        except Exception as e:
+            print(e)
             finalize()
+            
+except Exception as e:
+    print(e)
             
 finally:
     finalize()
