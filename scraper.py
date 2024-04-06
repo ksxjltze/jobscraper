@@ -25,7 +25,7 @@ import time;
 import random;
 
 BASE_URL = 'https://sg.indeed.com/jobs'
-QUERY = '?q=software+engineer&l=Singapore'
+QUERY = '?q=fresh+graduate+%2440%2C000+engineer&l=Singapore'
 
 driver = webdriver.Chrome()
 driver.get(BASE_URL + QUERY)
@@ -59,13 +59,12 @@ def write_to_csv():
     with open('jobs.csv', 'a', newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         
-        headers = ['Title', 'Company', 'Pay', 'Description', "Type"]
-        writer.writerow(headers)
-        
         for job in jobs_data:
             writer.writerow(iter(job))
         
         jobs_data.clear()
+        
+        print("Finished writing!")
         csvfile.close()
     
 def finalize():
@@ -76,6 +75,11 @@ def finalize():
     exit()
     
 with open('jobs.csv', 'w', newline='', encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
+    
+    headers = ['Title', 'Company', 'Pay', 'Description', "Type"]
+    writer.writerow(headers)
+    
     csvfile.close()
 
 try:
@@ -110,17 +114,17 @@ try:
             companyName = companyInfo.find_element(By.CSS_SELECTOR, "span[data-testid='company-name']")
             
             jobTitleText = ""
-            jobDescription = ""
+            jobDescriptionText = ""
             jobInfoText = ""
             payText = ""
             companyNameText = ""
             
             try:
-                jobDescription = wait.until(EC.visibility_of_element_located((By.ID, "jobDescriptionText")))
+                jobDescriptionText = wait.until(EC.visibility_of_element_located((By.ID, "jobDescriptionText"))).text
                 
             except Exception as e:
                 print(e)
-                jobDescription = "NA"
+                jobDescriptionText = "NA"
             
             jobTitleText = jobTitle.text.strip()
             companyNameText = companyName.text.strip()
@@ -142,7 +146,7 @@ try:
                 
             finally:
                 print(companyNameText + " - " + jobTitleText + ": " + jobInfoText)
-                jobs_data.append((jobTitleText, companyNameText, payText, jobDescription, jobInfoText))
+                jobs_data.append((jobTitleText, companyNameText, payText, jobDescriptionText, jobInfoText))
                     
         nextPageLinkLocator = (By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
         sleep_random(3, 4)
