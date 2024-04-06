@@ -73,6 +73,9 @@ def finalize():
     
     driver.quit()       
     exit()
+    
+with open('jobs.csv', 'w', newline='', encoding="utf-8") as csvfile:
+    csvfile.close()
 
 try:
     while currentPage < PAGES:
@@ -131,13 +134,12 @@ try:
                 
                 payElement = jobPane.find_element(By.CSS_SELECTOR, "div[aria-label='Pay']")
                 payText = payElement.text.strip().removeprefix("Pay\n")
-                print(payText + ": (" + jobTitleText + ")" + " - " + companyNameText)
                 
             except Exception as e:
-                print("No pay found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
                 payText = "NA"
                 
             finally:
+                print(companyNameText + " - " + jobTitleText + ": " + jobInfoText)
                 jobs_data.append((jobTitleText, companyNameText, payText, jobDescription, jobInfoText))
                     
         nextPageLinkLocator = (By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")

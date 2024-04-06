@@ -1,8 +1,4 @@
 Title,Company,Pay,Description,Type
-Title,Company,Pay,Description,Type
-Title,Company,Pay,Description,Type
-Title,Company,Pay,Description,Type
-Title,Company,Pay,Description,Type
 Software Engineer (Front-end),NodeFlair,NA,"Job Summary
 
 Salary
@@ -54,299 +50,6 @@ Paid annual leave (15 days)
 Birthday leave (1 day).
 Self-development benefits
 Performance bonus","$5,000 - $6,500 a month"
-Software Engineer - SAST Scanning,ByteDance,NA,"About the Company
-Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
-
-Why Join Us
-Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
-Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
-To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
-At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
-Join us.
-
-About the Team
-About the Security Assurance Team at ByteDance
-The team is missioned to build infrastructures, platforms and technologies, as well as to support cross-functional teams to protect our users, products and infrastructures. In this team, you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and secure-by-design systems and solutions. Our challenges are not your regular day-to-day technical problems; you'll be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech. It's working fast, at scale, and we're making a difference.
-
-Job Responsibility
-1. Develop and improve the SAST analysis engine to discover security bugs in the code.
-2. Integrate SAST capabilities into company processes to establish automated discovery and disposal processes.
-3. Evaluate and verify the results of SAST, provide detailed reports and recommendations, and promote problem solving and system improvement
-4. Provide support services for development and promote problem solving and code improvement.
-Minimum Qualifications
-1. Familiar with multiple languages such as Go or Python, with sufficient understanding of the OWASP Top 10 vulnerability principles and vulnerability code scenarios.
-2. Have good SAST tool development and debugging ability.
-3. Master common code audit ideas in the industry (such as taint tracking), and be familiar with the principles of well-known SAST tools.
-Preferred Qualifications
-1. Have solid offensive and defensive technical capabilities such as web security, code audit, and penetration test.
-2. Have good team communication and collaboration skills, and good professional ethics.
-
-ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",NA
-Software Developer – Front-End,NodeFlair,NA,"Job Summary
-
-Salary
-S$3,000 - S$6,000 / Monthly
-
-Job Type
-
-Seniority
-Junior
-
-Years of Experience
-At least 1 year
-
-Tech Stacks
-Less HTML JavaScript CSS
-
-Job Description
-As a Front-End Developer, you are entrusted with the mission of transforming our designs into interactive HTML. You will have to be brave enough to forge new routes in HTML with your CSS and Javascript techniques. Xtremax believes in grooming new talents, so we welcome less experienced front-end developers to join our ship. As long as you are creative and able to collaborate with fellow sailors on deck, we would love for you to join our team.
-Responsibilities:
-Modify templates for CMS or web development framework beautifully.
-Construct visual graphic designs based on HTML, CSS, and live interaction with Javascript.
-Seeing the web as dynamically functional, meanwhile maintaining the aspects of design.
-Develop test plans and test cases for all devices, complete with functional documentations based on the project methodology.
-Requirements:
-Experience in HTML syntax for various specifications
-Understanding of markups used for layout also has the ability to hand-code markups
-Experience in organizing CSS Files and specifying various CSS for different media and devices
-Understanding of CSS basics and essentials, also familiar with the development and debugging tools for cross-browser and multiple-devices issues
-Good written also verbal communication skills & fresh graduates are welcome to apply","$3,000 - $6,000 a month - Fresh graduate"
-Software Engineering Internship (min 5 months),NCS,NA,"Software Engineering Internship (min 5 months)
-
-Date: 23 Mar 2024
-Location: Singapore, Singapore
-Company: Singtel Group
-NCS is the leading technology services firm that operates across the Asia Pacific region in over 20 countries, providing consulting, digital services, technology solutions, and more.
-
-We believe in harnessing the power of technology to achieve extraordinary things, creating lasting value and impact for our communities, partners, and people. Our diverse workforce of 12,000 has delivered large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.
-
-You will have the opportunity to learn
-How to perform technical tasks so as to develop/enhance software applications according to Functional and Technical specifications.
-How to analyse process/program specifications & translate specifications to program codes, conforming to program guidelines and programming best practices.
-How to make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls & audits.
-How to develop unit test package, execute tests & document test results to ensure the quality of the program.
-How to assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment.
-How to Investigate all reported problems/errors & initiate amendments & testing so that the system can operate correctly & efficiently.
-How to prepare & maintain up-to-date system documentation.
-The ideal profile should be/have:
-Pursuing a Diploma/Bachelor’s degree in Computer Science or related engineering fields.
-Knowledge in one or more frontend framework (HTML5/Angular/React JS).
-Knowledge in one or more backend languages (Java/.NET/Python/PHP/C++).
-
-As Asia’s leading technology services firm, NCS as part of the Singtel Group, aims to create sustainable value for all our stakeholders. We aspire to create the extraordinary, to impact millions of people every day, and to create a positive impact on our environment. Our sustainability strategy sets out the key Environmental, Social and Governance (ESG) areas that aim to create the NCS impact for our clients, our people and our future.
-
-We Grow our People, Value our Clients, and Create our Future.
-
-We want to change the way we live and work for the better, to create new and sustainable business growth, and to foster an inclusive future for all.
-
-You can find out more about our Group’s sustainability focus to guide how you can contribute to our objectives at Sustainability Reports.
-
-About NCS Group
-We believe in building a talent-led delivery model to enable our best people to lead, and to support them with the right structure, processes, and tools to ensure that our clients are delivered top quality services. Great work is never done alone, which is why we also believe in fostering a collaborative work environment where people with different expertise and talent can come together.
-
-We’re here to make the extraordinary happen.
-
-Find out more at ncs.co and our LinkedIn career site.
-
-We handle all profiles with the highest level of confidentiality",Internship
-Software Testing Engineer -,ABSOLUT POH TEO INVESTMENT HOLDING LLP,NA,"Email: hr_admin@acpcomputer.edu.sg
-
-Requirements for Test Engineer:
-(a) Responsibilities:
-The candidate is responsible for the end-to-end testing activities of an integrated e-payment system. The primary responsibilities would include carrying out the activities in the testing lifecycle including test planning, and analyzing business and system requirements.
-The candidate will also be responsible:
-Preparing the test environment, designing, and developing the test cases.
-Preparing the test environment, and executing the test procedures.
-Automating the test solution based on the system design using scripting or programming languages as well as performance tuning.
-Create traceability to requirements, analyze gaps, and address them.
-Logging and tracking defects to closure
-Conducting test reviews with internal and external stakeholders.
-Perform root cause analysis for production and user acceptance defects, and address test gaps to ensure test efficiency.
-Develop design documents and user manuals that would effectively describe and provide clear instructions on the test automation solution to the end users include testers and stakeholders.
-(b) Qualifications & Requirements:
-Tertiary qualification in Information Technology or Engineering
-At least 3 years relevant experience in executing testing and developing test automation solutions involving devices (UI-based or embedded) and/or back-office systems with familiarity with the full system development lifecycle from requirement, and development, to testing and deployment;
-Good written and verbal communication skills;
-Able to work well both independently as well as in a team;
-Certification in software testing preferred;
-Experience in Micro-payments/Automatic Fare Collection systems using Smart Cards and in diverse test execution phases (System Integration Testing, User Acceptance Testing, and Performance testing) would be an advantage;","$3,000 - $5,000 a month - Full-time"
-Developer (Full Stack),NodeFlair,NA,"Job Summary
-
-Salary
-S$4,500 - S$6,500 / Monthly
-
-Job Type
-
-Seniority
-Junior
-
-Years of Experience
-At least 1 year
-
-Tech Stacks
-MariaDB Docker CI HTML JavaScript jQuery Node.js PHP MySQL React CSS Vue.js
-
-Job Description
-Responsibilities:-
-We are looking for Software Engineers & Developers to enhance our in-house product offerings and build the next generation Med-Tech applications.
-You will work with a team of Developers, Designers and Product Managers throughout the software development cycle.
-
-Requirements:-
-Self-Taught, Fresh-Grads and Experienced Professionals all welcome. As long as you can show a good portfolio of work/personal projects we are chill.
-Javascript nerds will get an edge.
-Passion for leveraging technology to help solve healthcare issues and improve the quality of lives of both medical professionals and patients.
-Be able to demonstrate technical abilities in personal/professional projects is critical
-Stickler for best practices and keeping your code clean is a plus
-Advantageous: Javascript (NodeJS, VueJS, ReactJS jQuery), PHP (Laravel), HTML/CSS Frameworks (Bootstrap), MySQL/MariaDB, cloud services (AWS), serverless concepts, Docker containers, Micro Services, CI/CD, general IT security concepts and data privacy awareness.","$4,500 - $6,500 a month"
-Software Engineering Internship – Summer 2024,Hudson River Trading,NA,"Please only apply to one job posting. We recommend you apply for the position/office you are most interested in. Upon review of your application, if your skill sets are better suited for another position, we will reach out and let you know. If you are interested in multiple offices, you will have the opportunity to indicate that below in the application questions.
-HRT is seeking highly motivated full-time students for our software engineering summer internship program. We are looking for smart programmers who love to code, love to learn, and who can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading.
-What to Expect
-A hands-on introduction to all technical facets of software engineering in the algorithmic trading industry
-Independent programming projects in C, C++, or Python, depending on the needs of the project
-As you go through structured and hands-on trainings, you'll transition right into projects within the first week
-You'll have an opportunity to learn all about HRT's research and trading infrastructure, even in areas you may not be working in directly
-In addition to technical project work and mentorship, you'll also gain a deeper understanding of global financial markets
-Requirements
-You are a full-time undergraduate student studying Computer Science or a related field who is eligible for full-time roles in 2025
-Programming experience in C, C++, or Python is required
-A passion for technology and writing code that is elegant, readable, and efficient
-Exceptional problem solving skills
-Strong communication skills
-Knowledge of trading and/or financial markets is not required for this position
-Culture
-Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading.
-
-At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We're a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we're friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office.
-
-Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we'd love to get to know you.","Full-time, Internship"
-Software Engineer Intern,NodeFlair,NA,"Job Summary
-
-Job Type
-Permanent
-
-Seniority
-Intern
-
-Years of Experience
-Information not provided
-
-Tech Stacks
-API JavaScript SQL PostgreSQL React
-
-Job Description
-The Mobbin platform serves over 500,000 inspiration-seekers across the world and handles 20 million API requests weekly.
-
-We are hiring a software engineer intern to join one of our cross-functional teams. You will be assigned to a team based on your interest and suitability assessed during the interviews.
-The Product Team is responsible for deepening the value for our customers and bringing delight to our users.
-The Growth Team is responsible for optimising key metrics for the company, such as acquisition, retention, engagement, and monetisation.
-The Machine Learning Team is responsible for the research and development of production-ready ML models for internal and external use.
-As a software engineer intern at any teams in Mobbin, you will be responsible for delivering high value features or improvements. No intern works on non-essential projects.
-
-Our Engineering Department, whilst small, provides the technological capability that turn our ideas into software that drives global impact at scale. We take great care to balance the need for stable technologies yet exercise tact in choosing cutting edge technologies that pays forward to our long term goals.
-
-What You'll Do...
-Focus 75% on front-end and 25% on back-end.
-Design and write high-quality and reliable code, including writing tests and documentation with some supervision.
-Collaborate with your fellow team members (for example, product designers, engineers, etc).
-Harness data across our data stack to derive insights.
-Clearly propose and articulate your technical decisions and the trade-offs incurred.
-Identify areas of codebase that can use improvements and execute on suggestions for better developer experience, performance, or otherwise.
-You should...
-Have a strong interest and moderate experience in web development.
-Have moderate experience in React, JavaScript and any strongly-typed language(s).
-Be moderately proficient in Postgres, SQL, and/or relational databases.
-Have strong computer science fundamentals.
-Be deeply curious about how things work and why things are the way they are.
-Be able to communicate effectively and have good written communication skills.
-Have a strong desire to make foundational codebase improvements.
-[Bonus] Have a strong visual taste and hold a high bar for aesthetics.
-What We Offer...
-Competitive salary
-Medical claims
-Flexible work hours
-Remote work options - you will choose your work schedule and location
-Possibility of extension or part-time work arrangements post-internship
-Possibility of full-time offer following the internship","Part-time, Internship"
-Title,Company,Pay,Description,Type
-Software Engineer (Front-end),NodeFlair,NA,"Job Summary
-
-Salary
-S$5,000 - S$6,500 / Monthly
-
-Job Type
-
-Seniority
-Junior
-
-Years of Experience
-At least 2 years
-
-Tech Stacks
-SCSS Git Angular JavaScript CSS
-
-Job Description
-WHO WE ARE
-Digify is a cloud-based document security and data room software that allows customers to control, protect and track important documents after sharing them. Companies use Digify to protect confidential information for fundraising and due diligence, secure intellectual property, and protect sensitive communications.
-Digify is used in 138 countries today. We have more than 500,000 users worldwide.
-
-WHAT YOU'LL BE DOING:
-Design, program, and test software.
-Maintain existing software systems by identifying and fixing software bugs.
-Create technical specifications and test plans.
-Create, maintain, and extend operational documentation.
-Consult with management and colleagues regarding business requirements.
-Design and maintain the application and operational architecture of the product.
-Learn to be a subject matter expert who provides technical suggestions to the technical manager.
-Explore and develop skills in new software technologies.
-Work in a small, experienced and dynamic team on a fast-paced, agile development schedule.
-REQUIREMENTS
-A degree in Computer Science or Computer Engineering.
-2-5 years of experience as a frontend developer in a software company.
-Proficient understanding of web markup, including HTML5 and CSS3.
-Strong expertise in client-side scripting and JavaScript frameworks, especially Angular.
-Good understanding of server-side CSS pre-processing platforms, such as SCSS.
-Familiarity with front-end build tools
-Proficient understanding of code versioning tools, such as Git.
-Experience with responsive and adaptive design.
-Strong troubleshooting and problem solving skills.
-Ability to develop solutions independently.
-Ability to quickly adapt to new designs and requirements.
-Passionate about sofware development. Desire to learn and develop your professional skills.
-This job is based in Singapore.
-BENEFITS
-Group health insurance.
-Paid annual leave (15 days)
-Birthday leave (1 day).
-Self-development benefits
-Performance bonus","$5,000 - $6,500 a month"
-Software Engineer - SAST Scanning,ByteDance,NA,"About the Company
-Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
-
-Why Join Us
-Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
-Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
-To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
-At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
-Join us.
-
-About the Team
-About the Security Assurance Team at ByteDance
-The team is missioned to build infrastructures, platforms and technologies, as well as to support cross-functional teams to protect our users, products and infrastructures. In this team, you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and secure-by-design systems and solutions. Our challenges are not your regular day-to-day technical problems; you'll be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech. It's working fast, at scale, and we're making a difference.
-
-Job Responsibility
-1. Develop and improve the SAST analysis engine to discover security bugs in the code.
-2. Integrate SAST capabilities into company processes to establish automated discovery and disposal processes.
-3. Evaluate and verify the results of SAST, provide detailed reports and recommendations, and promote problem solving and system improvement
-4. Provide support services for development and promote problem solving and code improvement.
-Minimum Qualifications
-1. Familiar with multiple languages such as Go or Python, with sufficient understanding of the OWASP Top 10 vulnerability principles and vulnerability code scenarios.
-2. Have good SAST tool development and debugging ability.
-3. Master common code audit ideas in the industry (such as taint tracking), and be familiar with the principles of well-known SAST tools.
-Preferred Qualifications
-1. Have solid offensive and defensive technical capabilities such as web security, code audit, and penetration test.
-2. Have good team communication and collaboration skills, and good professional ethics.
-
-ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",NA
 Software Developer – Front-End,NodeFlair,"$3,000 - $6,000 a month","Job Summary
 
 Salary
@@ -591,7 +294,7 @@ Basic knowledge of Machine/Deep Learning (Tensorflow, Keras, etc)
 Basic knowledge of Embedded Systems Programming
 Basic knowledge of Networking (Port Forwarding, Static IPs, etc)
 Basic understanding of Version Control, Git is preferred",Internship
-Software Engineer (Fresh Graduate),NodeFlair,,"Job Summary
+Software Engineer (Fresh Graduate),NodeFlair,NA,"Job Summary
 
 Job Type
 Permanent
@@ -620,3 +323,200 @@ Strong knowledge of HTML, CSS, and JavaScript
 Experience with client-side frameworks eg. Angular, Ember, Vue, React etc.
 Strong analytical, problem-solving, communication, and decision-making skills
 Excellent communication ability and desire to thrive in a high-growth startup environment",Permanent
+Junior Software Engineer,NodeFlair,"$4,108 - $6,118 a month","Job Summary
+
+Salary
+S$4,108 - S$6,118 / Monthly EST
+
+Job Type
+Permanent
+
+Seniority
+Junior
+
+Years of Experience
+Information not provided
+
+Tech Stacks
+AWS Azure Java Angular JavaScript .NET PHP React Python
+
+Job Description
+Role- Junior Software Engineer (Next Generation Talent)
+Location - Marina Bay Financial Centre, Singapore
+Do you thrive on bringing ideas to life through code? Imagine collaborating with diverse stakeholders to grasp complex business needs and translating them into elegant software solutions. This role offers you the chance to make a real impact through the power of technology.
+What You'll Do:
+Bridge the Gap: Unravel business requirements and translate them into clear technical specifications.
+Craft with Precision: Develop and refine software applications, ensuring exceptional functionality and performance.
+Maintain & Optimize: Nurture existing applications, keeping them efficient and secure.
+Test with Confidence: Execute rigorous testing across all levels, guaranteeing reliability and usability.
+Automate for Success: Streamline deployments with configuration management and automation tools.
+Innovate & Improve: Continuously identify opportunities to enhance systems and user experience.
+What You Bring:
+Solid Foundation: A Computer Science or related Engineering degree equips you with the technical prowess.
+Sharp & Eager: Recent graduate or up to 2 years of hands-on experience showcase your agility.
+Frontend Expertise: Master the art of user interfaces with frameworks like HTML5, Angular, or React JS.
+Backend Powerhouse: Command backend languages like Java, .NET, Python, or PHP.
+Data Adeptness: Database proficiency is a valuable bonus.
+Full-Stack Potential: Experience in both frontend and backend development gives you an edge.
+Cloud Enthusiast: Familiarity with Cloud Platforms- AWS, Azure, GCP would be additional asset.
+Ready to develop, refine software, collaborate with diverse teams, & make a real impact.? Join our team and make a meaningful impact!
+Let's talk about what's in it for you!
+Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.
+As ""Architects of Positive Futures"", Capgemini actively supports the community in 3 ways:
+Diversity and Inclusion - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini and OutFront support the grassroots passion of employees to drive our diversity agenda and effect change.
+Digital inclusion - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.
+Environmental Sustainability - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious ""A list"" for its commitment to the Net-Zero economy. We are focusing on helping our clients transform towards more sustainable business models and committing to reduce our own carbon emissions (GHG) by 20% per employee by 2020.
+Recognized by Ethisphere as one of the World's Most Ethical Companies for the last 8 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, click here to listen to some of our employee’s stories.
+Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.","$4,108 - $6,118 a month - Permanent"
+Software Development Intern,Schneider Electric,NA,"Job Description:
+Do you dream of working in a company that is driven by a meaningful purpose? An inclusive company that empowers you to do your best and be innovative?
+
+At Schneider Electric, we believe access to energy and digital is a basic human right. We empower all to do more with less, ensuring Life Is On everywhere, for everyone, at every moment. We provide energy and automation digital solutions for efficiency and sustainability.
+
+We are now hiring Interns for our H2 2024 cohort! Internships will start in 3 batches: 1 July 2024, 8 July 2024 or 15 July 2024. Please indicate your availability in your application. Students who can commit full-time will be preferred.
+
+Join us as a Software Development Intern to make an impact!
+
+You will join the Projects team, where we execute customer projects for energy management in East Asia and Japan
+
+Mission (About the Role)
+
+You will join Machine Solutions R&D team in Singapore. In this role you will learn about Industrial Automation domain, PLCs, Industrial PCs, and IO modules. You will apply the knowledge of programming to design and develop unit tests and enhancements to products
+
+What will you do?
+
+Understand RTOS based architecture used in Automation Products
+Assist in the development and realization of the idea with a mentor
+Design and develop test cases
+Execute test cases and debug failures if any
+Participate in daily meetings and share ideas/blocking points
+
+Qualifications:
+
+What qualifications will make you successful?
+
+Education: Bachelor’s in Data Analytics/Mathematics/Economics/Computer Engineering/IT related or similar
+Skills/Systems Knowledge: Programming skills in C/Python/C#
+
+What's in it for me?
+
+Competitive internship allowance
+Flexible work arrangement
+Medical coverage
+Blue Sky Friday
+Onsite gym
+...and more!
+
+Let us learn about you! Apply today.
+About Our Company:
+Why us?
+Schneider Electric is leading the digital transformation of energy management and automation. Our technologies enable the world to use energy in a safe, efficient and sustainable manner. We strive to promote a global economy that is both ecologically viable and highly productive.
+
+€25.7bn global revenue
+137 000+ employees in 100+ countries
+45% of revenue from IoT
+5% of revenue devoted for R&D
+
+You must submit an online application to be considered for any position with us. This position will be posted until filled
+
+It is the policy of Schneider Electric to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct. Concerning agencies: Schneider Electric does not accept unsolicited resumes and will not be responsible for fees related to such.",Internship
+Software Engineering Intern,GEVME,NA,"Singapore, Singapore | Posted on 03/15/2024
+
+Job Information
+Industry
+IT Services
+City
+Singapore
+State/Province
+Genting Ln, Singapore
+Country
+Singapore
+Zip/Postal Code
+349585
+Job Description
+Software Engineering Intern
+
+Drop us an email at talent@gevme.com to apply!
+
+Enhancing an industry-leading Event Management platform GEVME (www.gevme.com), is a fast-growing virtual & hybrid event and engagement platform that has already powered hundreds of thousands of events around the world for clients like Facebook, Netflix, Starbucks, Forbes, MasterCard, Singapore Government.
+
+Join us if you want to become part of a vibrant and fast-moving product company that's on a mission to connect people around the world through events.
+
+We have openings for driven and motivated software engineering interns in our engineering team. As an intern, you get to experience firsthand how a product company builds in-house software. You should expect to have a challenging and satisfying internship with an opportunity to open doors to a full-time role upon graduation.
+
+As part of your internship, you can:
+
+Be part of the software engineering team and work directly on enterprise-level codebase
+Improve the product by developing new features according to the product roadmap
+Building and maintaining web applications
+Code alongside leading developers
+Learn what it’s like to plan for, work on, test and release applications
+
+Requirements
+Knowledge or strong interest in working with SaaS & web applications
+Knowledge or strong interest in full stack development
+For Backend developers- - Node JS, Dockers and AWS knowledge
+For Frontend developer - React JS, HTML and CSS
+For Full-stack developer - PHP, Javascript",Full-time
+Frontend Software Engineer (Remote),STACS,NA,"Frontend Software Engineer
+We are looking for a Frontend Software Engineer to join our rapidly expanding Engineering team who is passionate about designing and building great user facing features. You will work in a cross disciplinary setting with both product owners and backend engineers to provide our Enterprise clients an intuitive user experience that assists them in completing functional workloads on our ESG platform.
+The ideal candidate is a hands-on frontend engineer who has had exposure to the traditional Enterprise application UI and has a strong sense of the improvements that can be made without legacy code. You will have the opportunity to design and implement new frontend applications for the capital markets and ESG (green financing) sector. You should also have a strong background in web security and role based access control. You can expect to work with many Cloud-based tools (AWS Cloud) and be open to learning new tools. You must be comfortable working in a fast-paced environment with little supervision in an Agile environment.
+You will be a key contributor in transforming the way capital markets of today and green financing of tomorrow function with the web-based frontend applications you build together with internal stakeholders ranging from Customer Success to the Product team.
+Job Responsibilities
+As a Frontend Software Engineer, you will be responsible for designing and implementing web-based applications to drive efficiency and productivity of our clients on the ESG platform.
+Your core responsibilities:
+Design and implement frontend services using React.JS framework
+Basic understanding of HTML, CSS
+Implement code with up to date web security best practices
+Write high quality, clean, maintainable code using engineering best practices
+Able to analyze requirements and use them to design and develop functional frontend products
+Work with a cross disciplinary team to build a great product
+
+Requirements B.S. or M.S. in Computer Science or equivalent degree or experience > 2 years of experience with client-side frameworks (ReactJS) UX Design experience is a plus Familiarity with site performance tuning, concurrency handling and caching mechanisms Experience interfacing with APIs for building frontend Familiar with browser debugging and testing
+Experience with 1 or more cloud platforms (AWS is a plus)
+
+What You Will Need to Thrive Value teamwork above all Natural curiosity to learn Loves to work with code Intrinsically motivated personality High adaptability and strong problem-solving skills Customer focused mindset
+Self-starter who thrives on complexity and independence",NA
+Singapore - Junior Software Engineer Graduate Programme,FDM Group,NA,"About The Role
+Are you a wizard amongst your friends in the tech space?
+Have you got analytical skills to share with the world?
+Do you dream of turning your passion into a career?
+
+The most in-demand industry right now is calling you
+Learn real-world technical skills to boost your CV
+Company culture committed to diversity, inclusion & fun
+Tech-savvy graduates are in-demand… but there are lots of you, which means competition! Our Graduate Consultant Programme will set you apart from the rest.
+
+FDM’s specialised training will provide you with the platform and tools to develop a strong technical foundation and equip you with the practical skills to be a leading tech consultant.
+
+Pathways may include:
+Software Development
+Technical Analysis
+Data Engineering
+Cloud Computing Engineering
+Dive headfirst into inspiring projects and work collaboratively within an agile team. This could involve building web or mobile software that has real world applications, so you are constantly challenged to apply and develop your new skillset.
+
+Being a part of the Graduate Consultant Programme will boost your chances of being put forward to work on cutting-edge client assignments with our big brand partners across various industries. This hands-on client experience will help you continually improve and advance your consulting career.
+
+About You
+Minimum Qualifications:
+Educated to a university degree level (bachelor or higher)
+Able to commit to completing our full 2.5 year graduate programme
+Strong problem-solving and analytical skills
+Excellent interpersonal skills and communication
+Eligibility to work in Singapore
+What we offer you:
+Full-time employment with a competitive salary
+Training provided by industry experts, based on client demand
+Ongoing career support throughout your entire FDM journey, including professional development, mentoring, and social networking events with a community of peers
+Consultant Experience Team dedicated to your wellbeing, health, and happiness
+Opportunity to become a leading consultant in one of the most in-demand tech fields
+This is your opportunity to enter a world of unlimited possibilities – Apply Now!
+About Us
+FDM Group is the pioneer and market leader in the recruit, train and deploy industry specialising in the technology sector. For over 30 years, FDM has helped successfully launch the tech careers of thousands of graduates just like you, with 3,000+ globally in 2022 alone. FDM Group is a FTSE 250 employer with a global footprint and now on the FTSE4Good Index. Our Culture With 95+ nationalities working together as a team, FDM is a company committed to diversity and inclusion, in terms of background, culture and skills. We celebrate difference because we want everyone to have equal opportunity to belong and grow in their career. We are active in creating a more gender-balanced workforce, with circa 33% of our senior management team and 31% of all employees identifying as female. Diversity, equity and inclusion are at the heart of what we value as an organisation. FDM Group is an equal opportunities employer, and all qualified applicants will receive consideration for employment without regard to race, religion, sex, sexual orientation, age, disability or any other status protected by law. Our recruitment team are happy to support with any reasonable adjustments that are needed within the recruitment process. We have multiple start dates all year round, so you can Apply Today! Please only submit one application. Our Recruitment team will consider you for all other relevant open Graduate Programmes we are hiring for.
+
+Share Vacancy on Facebook
+Share Vacancy on X
+Share Vacancy on LinkedIn
+Share Vacancy on WhatsApp
+Send Vacancy to a friend",Full-time
