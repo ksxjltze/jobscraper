@@ -24,8 +24,11 @@ options.add_experimental_option('useAutomationExtension', False)
 import time;
 import random;
 
+BASE_URL = 'https://sg.indeed.com/jobs'
+QUERY = '?q=software+engineer&l=Singapore'
+
 driver = webdriver.Chrome()
-driver.get("https://sg.indeed.com/jobs?q=software+engineer+entry+level&l=Singapore")
+driver.get(BASE_URL + QUERY)
 driver.maximize_window()
 
 title = driver.title
@@ -36,8 +39,11 @@ wait.until(EC.element_to_be_clickable(acceptCookiesButtonLocator)).click()
 
 jobs_with_salary = []
 
-pages = 99
+PAGES = 999
 currentPage = 0
+
+SAVE_INTERVAL = 5 * 15
+jobsCounted = 0
 
 def clamp(x, a, b):
     return max(a, min(x, b))
@@ -48,69 +54,90 @@ def sleep_random(min_sleep_time, max_sleep_time):
     
     time.sleep(sleep_time_clamped)
     
+def write_to_csv():
+    with open('jobs.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        
+        headers = ['Title Name', 'Company Name', 'Pay', 'Description']
+        writer.writerow(headers)
+        
+        for job in jobs_with_salary:
+            writer.writerow(iter(job))
+        
+        csvfile.close()
+    
 def finalize():
     driver.quit()              
     for job in jobs_with_salary:
         print(job[0] + " (" + job[1] + ")" + " - " + job[2])
         
-    with open('jobs.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        
-        headers = ['Company Name', 'Title Name', 'Pay']
-        writer.writerow(headers)
-        
-        for job in jobs_with_salary:
-            writer.writerow(iter(job))
-    
+    write_to_csv()
     exit()
 
-while currentPage < pages:
-    jobs = driver.find_elements(By.CLASS_NAME, "tapItem")
-    for job in jobs:
-        errors = [NoSuchElementException]
-        
-        wait.until(EC.element_to_be_clickable(job))
-        job.click()
-        
-        sleep_random(2, 5)
-        
-        try:
-            jobPane = driver.find_element(By.ID, "jobsearch-ViewjobPaneWrapper")
-        except:
+try:
+    while currentPage < PAGES:
+        jobs = driver.find_elements(By.CLASS_NAME, "tapItem")
+        for job in jobs:
+            errors = [NoSuchElementException]
+            
+            wait.until(EC.element_to_be_clickable(job))
+            job.click()
+            sleep_random(3, 6)
+            
             try:
-                skeletonLocator = (By.XPATH, "//div[@data-testid='viewJob-skeleton']")
-                wait.until(EC.presence_of_element_located(skeletonLocator))
+                jobPane = driver.find_element(By.ID, "jobsearch-ViewjobPaneWrapper")
             except:
-                finalize()
-                break
+                try:
+                    skeletonLocator = (By.XPATH, "//div[@data-testid='viewJob-skeleton']")
+                    wait.until(EC.presence_of_element_located(skeletonLocator))
+                except:
+                    finalize()
+                    break
+            
+            wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "jobsearch-JobInfoHeader-title")))
+            
+            jobTitle = job.find_element(By.CLASS_NAME, "jobTitle").find_element(By.TAG_NAME, "span")
+            companyInfo = job.find_element(By.CLASS_NAME, "company_location")
+            companyName = companyInfo.find_element(By.CSS_SELECTOR, "span[data-testid='company-name']")
+            
+            jobDescription = ""
+            try:
+                jobDescription = jobPane.find_element(By.ID, "jobDescriptionText").text
+            except:
+                jobDescription = "Not found"
+            
+            jobTitleText = jobTitle.text.strip()
+            companyNameText = companyName.text.strip()
+            
+            try:
+                try:
+                    infoAndJobTypeElement = jobPane.find_element(By.ID, "salaryInfoAndJobType")
+                    jobInfoText = infoAndJobTypeElement.text
+                except:
+                    print("No job info found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
+                
+                payElement = jobPane.find_element(By.CSS_SELECTOR, "div[aria-label='Pay']")
+                payText = payElement.text.strip().removeprefix("Pay\n")
+                
+                jobs_with_salary.append((jobTitleText, companyNameText, payText, jobDescription, jobInfoText))
+                print(payText + ": (" + jobTitleText + ")" + " - " + companyNameText)
+                
+            except:
+                print("No pay found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
+                    
+        nextPageLinkLocator = (By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
+        sleep_random(3, 4)
         
-        wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "jobsearch-JobInfoHeader-title")))
-        
-        jobTitle = job.find_element(By.CLASS_NAME, "jobTitle").find_element(By.TAG_NAME, "span")
-        companyInfo = job.find_element(By.CLASS_NAME, "company_location")
-        companyName = companyInfo.find_element(By.CSS_SELECTOR, "span[data-testid='company-name']")
-        
-        jobTitleText = jobTitle.text.strip()
-        companyNameText = companyName.text.strip()
+        jobsCounted += 1
+        if jobsCounted % SAVE_INTERVAL == 0:
+            write_to_csv()
         
         try:
-            payElement = driver.find_element(By.XPATH, "//div[@aria-label='Pay']")
-            payText = payElement.text.strip().removeprefix("Pay\n")
-            
-            jobs_with_salary.append((jobTitleText, companyNameText, payText))
-            print(payText + ": (" + jobTitleText + ")" + " - " + companyNameText)
+            wait.until(EC.element_to_be_clickable(nextPageLinkLocator)).click()
+            currentPage += 1
             
         except:
-            print("No pay found for job: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
-                
-    nextPageLinkLocator = (By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
-    sleep_random(3, 4)
-    
-    try:
-        wait.until(EC.element_to_be_clickable(nextPageLinkLocator)).click()
-        currentPage += 1
-        
-    except:
-        finalize()
-        
-finalize()
+            finalize()
+            
+finally:
+    finalize()
