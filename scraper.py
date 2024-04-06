@@ -37,7 +37,7 @@ wait = WebDriverWait(driver, 20)
 acceptCookiesButtonLocator = (By.ID, "onetrust-accept-btn-handler")
 wait.until(EC.element_to_be_clickable(acceptCookiesButtonLocator)).click()
 
-jobs_with_salary = []
+jobs_data = []
 
 PAGES = 999
 currentPage = 0
@@ -58,17 +58,17 @@ def write_to_csv():
     with open('jobs.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         
-        headers = ['Title Name', 'Company Name', 'Pay', 'Description']
+        headers = ['Title', 'Company', 'Pay', 'Description', "Type"]
         writer.writerow(headers)
         
-        for job in jobs_with_salary:
+        for job in jobs_data:
             writer.writerow(iter(job))
         
         csvfile.close()
     
 def finalize():
     driver.quit()              
-    for job in jobs_with_salary:
+    for job in jobs_data:
         print(job[0] + " (" + job[1] + ")" + " - " + job[2])
         
     write_to_csv()
@@ -104,7 +104,7 @@ try:
             try:
                 jobDescription = jobPane.find_element(By.ID, "jobDescriptionText").text
             except:
-                jobDescription = "Not found"
+                jobDescription = "NA"
             
             jobTitleText = jobTitle.text.strip()
             companyNameText = companyName.text.strip()
@@ -115,15 +115,18 @@ try:
                     jobInfoText = infoAndJobTypeElement.text
                 except:
                     print("No job info found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
+                    jobInfoText = "NA"
                 
                 payElement = jobPane.find_element(By.CSS_SELECTOR, "div[aria-label='Pay']")
                 payText = payElement.text.strip().removeprefix("Pay\n")
-                
-                jobs_with_salary.append((jobTitleText, companyNameText, payText, jobDescription, jobInfoText))
                 print(payText + ": (" + jobTitleText + ")" + " - " + companyNameText)
                 
             except:
                 print("No pay found: " + jobTitle.text.strip() + " (" + companyName.text.strip() + ")")
+                payText = "NA"
+                
+            finally:
+                jobs_data.append((jobTitleText, companyNameText, payText, jobDescription, jobInfoText))
                     
         nextPageLinkLocator = (By.CSS_SELECTOR, "a[data-testid='pagination-page-next']")
         sleep_random(3, 4)
