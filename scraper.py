@@ -42,7 +42,7 @@ jobs_data = []
 PAGES = 999
 currentPage = 0
 
-SAVE_INTERVAL = 5 * 15
+SAVE_INTERVAL = 75
 jobsCounted = 0
 
 def clamp(x, a, b):
@@ -55,6 +55,7 @@ def sleep_random(min_sleep_time, max_sleep_time):
     time.sleep(sleep_time_clamped)
     
 def write_to_csv():
+    print("Writing jobs to file!")
     with open('jobs.csv', 'a', newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         
@@ -115,9 +116,10 @@ try:
             companyNameText = ""
             
             try:
-                jobDescription = jobPane.find_element(By.ID, "jobDescriptionText").text
+                jobDescription = wait.until(EC.visibility_of_element_located((By.ID, "jobDescriptionText")))
                 
             except Exception as e:
+                print(e)
                 jobDescription = "NA"
             
             jobTitleText = jobTitle.text.strip()
