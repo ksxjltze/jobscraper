@@ -56,6 +56,8 @@ def sleep_random(min_sleep_time, max_sleep_time):
     
 def write_to_csv():
     print("Writing jobs to file!")
+    print("Writing " + len(jobs_data) + " jobs..")
+    
     with open('jobs.csv', 'a', newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         
